@@ -36,10 +36,6 @@ namespace GlassSoulsMod
             data.falseKnightDreamDefeated = false;
             data.infectedKnightDreamDefeated = false;
             data.mageLordDreamDefeated = false;
-            data.charmCost_12 = 1;
-            data.charmCost_29 = 1;
-            data.charmCost_3 = 1;
-            data.charmCost_34 = 1;
         }
 
         public void OnAttack(GlobalEnums.AttackDirection dir)
